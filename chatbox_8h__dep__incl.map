@@ -1,7 +1,7 @@
-<map id="/home/bhajizadeh/Documents/Projects/vscode projects/todolist/source/chatbox.h" name="/home/bhajizadeh/Documents/Projects/vscode projects/todolist/source/chatbox.h">
-<area shape="rect" id="node1" title=" " alt="" coords="115,5,309,61"/>
-<area shape="rect" id="node2" href="$chatbox_8cpp.html" title=" " alt="" coords="5,109,200,165"/>
-<area shape="rect" id="node3" href="$mainwidget_8h.html" title=" " alt="" coords="224,109,419,165"/>
-<area shape="rect" id="node4" href="$main_8cpp.html" title=" " alt="" coords="111,213,305,269"/>
-<area shape="rect" id="node5" href="$mainwidget_8cpp.html" title=" " alt="" coords="330,213,537,269"/>
+<map id="source/chatbox.h" name="source/chatbox.h">
+<area shape="rect" id="node1" title=" " alt="" coords="93,5,216,32"/>
+<area shape="rect" id="node2" href="$chatbox_8cpp.html" title=" " alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node3" href="$mainwidget_8h.html" title=" " alt="" coords="166,80,309,107"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title=" " alt="" coords="97,155,215,181"/>
+<area shape="rect" id="node5" href="$mainwidget_8cpp.html" title=" " alt="" coords="239,155,395,181"/>
 </map>

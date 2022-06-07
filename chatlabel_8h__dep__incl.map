@@ -1,11 +1,11 @@
-<map id="/home/bhajizadeh/Documents/Projects/vscode projects/todolist/source/chatlabel.h" name="/home/bhajizadeh/Documents/Projects/vscode projects/todolist/source/chatlabel.h">
-<area shape="rect" id="node1" title=" " alt="" coords="248,5,443,61"/>
-<area shape="rect" id="node2" href="$chatbox_8h.html" title=" " alt="" coords="47,109,241,165"/>
-<area shape="rect" id="node4" href="$mainwidget_8h.html" title=" " alt="" coords="224,213,419,269"/>
-<area shape="rect" id="node7" href="$chatlabel_8cpp.html" title=" " alt="" coords="316,109,511,165"/>
-<area shape="rect" id="node8" href="$serialize_8h.html" title=" " alt="" coords="535,109,729,165"/>
-<area shape="rect" id="node3" href="$chatbox_8cpp.html" title=" " alt="" coords="5,213,200,269"/>
-<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="112,317,307,373"/>
-<area shape="rect" id="node6" href="$mainwidget_8cpp.html" title=" " alt="" coords="331,317,538,373"/>
-<area shape="rect" id="node9" href="$serialize_8cpp.html" title=" " alt="" coords="535,213,729,269"/>
+<map id="source/chatlabel.h" name="source/chatlabel.h">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,323,32"/>
+<area shape="rect" id="node2" href="$chatbox_8h.html" title=" " alt="" coords="44,80,167,107"/>
+<area shape="rect" id="node4" href="$mainwidget_8h.html" title=" " alt="" coords="166,155,309,181"/>
+<area shape="rect" id="node7" href="$chatlabel_8cpp.html" title=" " alt="" coords="242,80,385,107"/>
+<area shape="rect" id="node8" href="$serialize_8h.html" title=" " alt="" coords="409,80,533,107"/>
+<area shape="rect" id="node3" href="$chatbox_8cpp.html" title=" " alt="" coords="5,155,141,181"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="98,229,217,256"/>
+<area shape="rect" id="node6" href="$mainwidget_8cpp.html" title=" " alt="" coords="241,229,397,256"/>
+<area shape="rect" id="node9" href="$serialize_8cpp.html" title=" " alt="" coords="401,155,540,181"/>
 </map>
