@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,79,108"/>
+<area shape="rect" id="node2" href="$class_chat_label.html" title="This class has major responsiblity in creating todo tasks as known as Chat Labels." alt="" coords="134,5,215,32"/>
+<area shape="rect" id="node3" href="$class_mainchatbox.html" title="This class is responsible in creating input text box and it&#39;s management,." alt="" coords="127,56,223,83"/>
+<area shape="rect" id="node4" href="$class_widget.html" title="Main Wigget class is a simulation for Qt&#39;s standard QMainWindow with some small differencies." alt="" coords="143,107,206,133"/>
+<area shape="rect" id="node5" href="$classadd_button.html" title="This class provides simple pushbutton as main ADD button." alt="" coords="134,157,215,184"/>
+</map>
